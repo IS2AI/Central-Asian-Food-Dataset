@@ -12,6 +12,14 @@ The dataset is unbalaced. The statistics across all 42 classes is shown on Figur
 
 To illustrate the performance of different classification models on KFD we have trained different models. 
 
-https://issai.nu.edu.kz/wp-content/themes/issai-new/data/models/KFD_pre_trained_models/1k_resnet152.pt
-https://issai.nu.edu.kz/wp-content/themes/issai-new/data/models/KFD_pre_trained_models/food1k_kfd_efficientnet.pt
+|-------------------------|
+| VGG-16|
+|-------|
+|Squeezenet1_0|
+
 https://issai.nu.edu.kz/wp-content/themes/issai-new/data/models/KFD_pre_trained_models/kfd_resnet152.pt
+
+https://issai.nu.edu.kz/wp-content/themes/issai-new/data/models/KFD_pre_trained_models/1k_resnet152.pt
+
+https://issai.nu.edu.kz/wp-content/themes/issai-new/data/models/KFD_pre_trained_models/food1k_kfd_efficientnet.pt
+
