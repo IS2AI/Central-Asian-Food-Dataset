@@ -14,16 +14,16 @@ To illustrate the performance of different classification models on KFD we have 
 
 |Model| KFD (Top-1 Acc.)| KFD (Top-5 Acc.)| Food1K+KFD (Top-1 Acc.)| Food1K+KFD (Top-5 Acc.)|
 |-----|-----------------|-----------------|------------------------|------------------------|
-|:VGG-16:|:72.01:|:12:|:12:|:12:|
-|Squeezenet1_0|72.01|12|12|12|
-|ResNet50|72.01|12|12|12|
-|ResNet101|72.01|12|12|12|
-|ResNet152|72.01|12|12|12|
-|ResNext50_32|72.01|12|12|12|
-|Wide ResNet-50|72.01|12|12|12|
-|Inception-v3|72.01|12|12|12|
-|DenseNet-121|72.01|12|12|12|
-|EfficientNet-b4|72.01|12|12|12|
+|VGG-16|72.12|95.06|66.49|89.65|
+|Squeezenet1_0|82.73|97.65|71.66|91.54|
+|ResNet50|89.41|98.84|82.97|97.09|
+|ResNet101|90.10|98.99|84.21|97.43|
+|ResNet152|90.66|99.25|85.30|97.74|
+|ResNext50_32|89.90|99.10|83.37|96.80|
+|Wide ResNet-50|90.10|99.15|85.27|97.81|
+|Inception-v3|88.90|98.03|85.78|97.82|
+|DenseNet-121|89.60|99.09|83.24|97.28|
+|EfficientNet-b4|84.64|98.46|87.75|98.01|
 
 
 https://issai.nu.edu.kz/wp-content/themes/issai-new/data/models/KFD_pre_trained_models/kfd_resnet152.pt
