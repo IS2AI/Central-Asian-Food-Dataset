@@ -12,7 +12,8 @@ The dataset is unbalaced. The statistics across all 42 classes is shown on Figur
 
 To illustrate the performance of different classification models on KFD we have trained different models. 
 
-|-------------------------|
+|Model|
+|-------|
 | VGG-16|
 |-------|
 |Squeezenet1_0|
