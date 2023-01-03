@@ -14,7 +14,7 @@ To illustrate the performance of different classification models on KFD we have 
 
 |Model| KFD (Top-1 Acc.)| KFD (Top-5 Acc.)| Food1K+KFD (Top-1 Acc.)| Food1K+KFD (Top-5 Acc.)|
 |-----|-----------------|-----------------|------------------------|------------------------|
-| VGG-16|72.01|12|12|12|
+|:VGG-16:|:72.01:|:12:|:12:|:12:|
 |Squeezenet1_0|72.01|12|12|12|
 |ResNet50|72.01|12|12|12|
 |ResNet101|72.01|12|12|12|
