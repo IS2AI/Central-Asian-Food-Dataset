@@ -12,11 +12,19 @@ The dataset is unbalaced. The statistics across all 42 classes is shown on Figur
 
 To illustrate the performance of different classification models on KFD we have trained different models. 
 
-|Model|
-|-------|
-| VGG-16|
-|-------|
-|Squeezenet1_0|
+|Model| KFD (Top-1 Acc.)| KFD (Top-5 Acc.)| Food1K+KFD (Top-1 Acc.)| Food1K+KFD (Top-5 Acc.)|
+|-----|-----------------|-----------------|------------------------|------------------------|
+| VGG-16|72.01|12|12|12|
+|Squeezenet1_0|72.01|12|12|12|
+|ResNet50|72.01|12|12|12|
+|ResNet101|72.01|12|12|12|
+|ResNet152|72.01|12|12|12|
+|ResNext50_32|72.01|12|12|12|
+|Wide ResNet-50|72.01|12|12|12|
+|Inception-v3|72.01|12|12|12|
+|DenseNet-121|72.01|12|12|12|
+|EfficientNet-b4|72.01|12|12|12|
+
 
 https://issai.nu.edu.kz/wp-content/themes/issai-new/data/models/KFD_pre_trained_models/kfd_resnet152.pt
 
