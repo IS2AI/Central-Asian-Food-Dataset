@@ -8,4 +8,10 @@ The dataset is unbalaced. The statistics across all 42 classes is shown on Figur
 
 <img src="https://github.com/IS2AI/Kazakh-Food-Dataset/blob/main/figures/stats_plot.png" width="500" height="600">
 
-Using this dataset
+# Pre-trained models
+
+To illustrate the performance of different classification models on KFD we have trained different models. 
+
+https://issai.nu.edu.kz/wp-content/themes/issai-new/data/models/KFD_pre_trained_models/1k_resnet152.pt
+https://issai.nu.edu.kz/wp-content/themes/issai-new/data/models/KFD_pre_trained_models/food1k_kfd_efficientnet.pt
+https://issai.nu.edu.kz/wp-content/themes/issai-new/data/models/KFD_pre_trained_models/kfd_resnet152.pt
