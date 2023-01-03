@@ -12,6 +12,8 @@ The dataset is unbalaced. The statistics across all 42 classes is shown on Figur
 
 The dataset can be downloaded using the link below. If there are some issues with the link, please, email us on issai@nu.edu.kz
 
+https://drive.google.com/drive/folders/1mnfShcKkADjESW9_TuOT9_m5IhhZg1h6?usp=sharing
+
 # Pre-trained models
 
 To illustrate the performance of different classification models on KFD we have trained different models. We used the largest publicly available fine-grained dataset Food1K [[1]](#1) that contains 1,000 food classes to evaluate the performance of classifier with the 1,042 food categories.
