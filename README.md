@@ -10,7 +10,7 @@ The dataset is unbalaced. The statistics across all 42 classes is shown on Figur
 
 # Pre-trained models
 
-To illustrate the performance of different classification models on KFD we have trained different models. We used the largest publicly available fine-grained dataset Food1K [[1]](#1) that contains 1,000 food classes to evaluate the performance of classifier with the 1,042 food categories. 
+To illustrate the performance of different classification models on KFD we have trained different models. We used the largest publicly available fine-grained dataset Food1K [[1]](#1) that contains 1,000 food classes to evaluate the performance of classifier with the 1,042 food categories.
 
 |Model| KFD (Top-1 Acc.)| KFD (Top-5 Acc.)| Food1K+KFD (Top-1 Acc.)| Food1K+KFD (Top-5 Acc.)|
 |-----|-----------------|-----------------|------------------------|------------------------|
@@ -25,15 +25,12 @@ To illustrate the performance of different classification models on KFD we have 
 |DenseNet-121|89.60|99.09|83.24|97.28|
 |EfficientNet-b4|84.64|98.46|87.75|98.01|
 
-Pre-trained model weight of the best models ResNet152 on KFD and EfficientNet-b4 on Food1K+KFD can be downloaded using these links:
+Pre-trained model weights of the best performing models: ResNet152 on KFD and EfficientNet-b4 on Food1K+KFD can be downloaded using these links:
 
 ResNet152 trained on KFD: 
 
 https://issai.nu.edu.kz/wp-content/themes/issai-new/data/models/KFD_pre_trained_models/kfd_resnet152.pt
 
-EfficientNet-b4 trained on Food1K:
-
-https://issai.nu.edu.kz/wp-content/themes/issai-new/data/models/KFD_pre_trained_models/1k_resnet152.pt
 
 EfficientNet-b4 trained on Food1K+KFD:
 
