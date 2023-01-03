@@ -10,7 +10,7 @@ The dataset is unbalaced. The statistics across all 42 classes is shown on Figur
 
 # Pre-trained models
 
-To illustrate the performance of different classification models on KFD we have trained different models. We used the largest publicly available fine-grained dataset Food1K that contains 1,000 food classes to evaluate the performance of classifier with the 1,042 food categories. 
+To illustrate the performance of different classification models on KFD we have trained different models. We used the largest publicly available fine-grained dataset Food1K [[1]](#1) that contains 1,000 food classes to evaluate the performance of classifier with the 1,042 food categories. 
 
 |Model| KFD (Top-1 Acc.)| KFD (Top-5 Acc.)| Food1K+KFD (Top-1 Acc.)| Food1K+KFD (Top-5 Acc.)|
 |-----|-----------------|-----------------|------------------------|------------------------|
@@ -38,4 +38,11 @@ https://issai.nu.edu.kz/wp-content/themes/issai-new/data/models/KFD_pre_trained_
 EfficientNet-b4 trained on Food1K+KFD:
 
 https://issai.nu.edu.kz/wp-content/themes/issai-new/data/models/KFD_pre_trained_models/food1k_kfd_efficientnet.pt
+
+
+## References
+<a id="1">[1]</a> 
+Min, Weiqing and Wang,  Zhiling (2021). 
+Large Scale Visual Food Recognition. 
+arXiv.
 
