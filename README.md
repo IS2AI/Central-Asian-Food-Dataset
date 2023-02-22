@@ -18,7 +18,7 @@ https://drive.google.com/drive/folders/1mnfShcKkADjESW9_TuOT9_m5IhhZg1h6?usp=sha
 
 To illustrate the performance of different classification models on CAFD we have trained different models. We used the largest publicly available fine-grained dataset Food1K [[1]](#1) that contains 1,000 food classes to evaluate the performance of classifier with the 1,042 food categories.
 
-|Model| KFD (Top-1 Acc.)| KFD (Top-5 Acc.)| Food1K+KFD (Top-1 Acc.)| Food1K+KFD (Top-5 Acc.)|
+|Model| CAFD (Top-1 Acc.)| CAFD (Top-5 Acc.)| Food1K+CAFD (Top-1 Acc.)| Food1K+CAFD (Top-5 Acc.)|
 |-----|-----------------|-----------------|------------------------|------------------------|
 |VGG-16|72.12|95.06|66.49|89.65|
 |Squeezenet1_0|82.73|97.65|71.66|91.54|
