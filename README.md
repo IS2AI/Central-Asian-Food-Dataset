@@ -1,5 +1,5 @@
-# Kazakh-Food-Dataset
-Kazakh Food Dataset (KFD) for food classification contains 21,288 images across 42 food classes of Kazakh and Central Asian cuisine. The dataset is web-scraped and manually annotated. Images have various resolution.
+# Central-Asian-Food-Dataset
+Central Asian Food Dataset (CAFD) for food classification contains 21,288 images across 42 food classes of Central Asian cuisine. The dataset is web-scraped and manually annotated. Images have various resolution.
 Figure below illustrates the samples and name for each class.
 
 <img src="https://github.com/IS2AI/Kazakh-Food-Dataset/blob/main/figures/samples.png" width="750" height="700">
@@ -16,7 +16,7 @@ https://drive.google.com/drive/folders/1mnfShcKkADjESW9_TuOT9_m5IhhZg1h6?usp=sha
 
 # Pre-trained models
 
-To illustrate the performance of different classification models on KFD we have trained different models. We used the largest publicly available fine-grained dataset Food1K [[1]](#1) that contains 1,000 food classes to evaluate the performance of classifier with the 1,042 food categories.
+To illustrate the performance of different classification models on CAFD we have trained different models. We used the largest publicly available fine-grained dataset Food1K [[1]](#1) that contains 1,000 food classes to evaluate the performance of classifier with the 1,042 food categories.
 
 |Model| KFD (Top-1 Acc.)| KFD (Top-5 Acc.)| Food1K+KFD (Top-1 Acc.)| Food1K+KFD (Top-5 Acc.)|
 |-----|-----------------|-----------------|------------------------|------------------------|
