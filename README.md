@@ -1,5 +1,5 @@
 # Central-Asian-Food-Dataset
-Central Asian Food Dataset (CAFD) for food classification contains 21,288 images across 42 food classes of Central Asian cuisine. The dataset is web-scraped and manually annotated. Images have various resolution.
+Central Asian Food Dataset (CAFD) for food classification contains 16,499 images across 42 food classes of Central Asian cuisine. The dataset is web-scraped and manually annotated. Images have various resolution.
 Figure below illustrates the samples and name for each class.
 
 <img src="https://github.com/IS2AI/Kazakh-Food-Dataset/blob/main/figures/samples.png" width="750" height="700">
