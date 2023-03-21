@@ -34,8 +34,7 @@ Pre-trained model weights of the best performing models: ResNet152 on KFD and Ef
 
 ## ResNet152 trained on CAFD: 
 
-https://issai.nu.edu.kz/wp-content/themes/issai-new/data/models/KFD_pre_trained_models/kfd_resnet152.pt
-
+https://drive.google.com/drive/folders/1DWLxzN2O2eeLSdKripfWCSTJnOnQNuU2?usp=share_link
 
 ## EfficientNet-b4 trained on Food1K+CAFD:
 
