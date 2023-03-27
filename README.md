@@ -12,7 +12,7 @@ The dataset is unbalaced. The statistics across all 42 classes is shown on Figur
 
 The dataset can be downloaded using the link below. If there are some issues with the link, please, email us on issai@nu.edu.kz
 
-https://drive.google.com/drive/folders/1mnfShcKkADjESW9_TuOT9_m5IhhZg1h6?usp=sharing
+https://issai.nu.edu.kz/wp-content/themes/issai-new/data/models/KFD_pre_trained_models/CAFD.zip
 
 # Pre-trained models
 
@@ -34,7 +34,7 @@ Pre-trained model weights of the best performing models: ResNet152 on KFD and Ef
 
 ## ResNet152 trained on CAFD: 
 
-https://drive.google.com/drive/folders/1DWLxzN2O2eeLSdKripfWCSTJnOnQNuU2?usp=share_link
+https://issai.nu.edu.kz/wp-content/themes/issai-new/data/models/KFD_pre_trained_models/cafd_resnet152.pt
 
 ## EfficientNet-b4 trained on Food1K+CAFD:
 
