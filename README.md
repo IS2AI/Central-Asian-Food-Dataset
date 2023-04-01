@@ -51,7 +51,7 @@ Large Scale Visual Food Recognition.
 arXiv.
 
 # In case of using our dataset and/or pre-trained models, please cite our work:
-'''
+```
 @Article{nu15071728,
 AUTHOR = {Karabay, Aknur and Bolatov, Arman and Varol, Huseyin Atakan and Chan, Mei-Yen},
 TITLE = {A Central Asian Food Dataset for Personalized Dietary Interventions},
@@ -63,4 +63,4 @@ ARTICLE-NUMBER = {1728},
 URL = {https://www.mdpi.com/2072-6643/15/7/1728},
 ISSN = {2072-6643}
 }
-'''
+```
